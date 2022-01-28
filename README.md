@@ -148,7 +148,8 @@ public class Test1 extends SuperClass {
 	} 
 }
 ```
-2. What is the output when you run the following code? The `SuperClass` will remain the same.
+2. What is the output when you run the following code?  
+The `SuperClass` will remain the same.
 ```java
 public class Test1 extends SuperClass { 
  	static int x = 15; 
