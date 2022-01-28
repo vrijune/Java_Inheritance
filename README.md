@@ -1,4 +1,6 @@
 Industry Lab 05: Abstraction and Inheritance
+
+Simple Exercise 
 ==========
 ## Exercise One: Scanner and Printer
 The following two interfaces specify the functions that a Document Scanner and a Printer are expected to have:
